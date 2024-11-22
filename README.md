@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdelmohaymn Elbashier</h1>
-<h3 align="center">A passionate mobile developer (native android & flutter)</h3>
+<h3 align="center">A passionate software engineer (native android & flutter)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelmohaymn&label=Profile%20views&color=0e75b6&style=flat" alt="abdelmohaymn" /> </p>
 

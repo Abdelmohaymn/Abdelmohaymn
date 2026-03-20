@@ -11,7 +11,7 @@
   
 - 🌐 [Portfolio](https://abdelmohaymn.github.io/portfolio/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sC3GBGmB6RHbljlfDhPNq15nskG7Htpy/view?usp=sharing](https://drive.google.com/file/d/1sC3GBGmB6RHbljlfDhPNq15nskG7Htpy/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1W4z9cDhaWhpJLIK_CbH6LStBeJ3Wq1Wb/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
